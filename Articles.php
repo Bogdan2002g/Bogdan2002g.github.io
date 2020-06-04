@@ -1,0 +1,106 @@
+
+<!doctype html>
+<html lang="en">
+<head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="">
+    <title>Articles</title>
+    <link href="https://getbootstrap.com/docs/4.4/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body{
+            background-image: url("CSS/img/lol1.jpg");
+
+
+        }
+
+
+        h1{
+            color: #FFA812;
+            text-shadow: black 2px 3px 1px;
+            text-align: center;
+        }
+
+
+
+        p{
+
+            font-size: 30px;
+            font-family: Tahoma;
+        }
+
+
+
+
+
+    </style>
+</head>
+
+
+<div class="container bgcont center-block">
+    <div class="col-md-12">
+        <header style="margin-bottom: 20px">
+
+            <div>
+                <a class="btn btn-dark" href="index.php" role="button"> ← Повернутися на головну сторіку </a>
+            </div>
+
+        </header>
+
+
+        <body   >
+
+
+
+        <div class="col-md-12">
+            <div class=" btn-dark">
+            <p> <a href="Pesr.php" >Персонажі з GTA5</a> </p>
+            </div>
+
+            <div class=" btn-dark">
+            <p> <a href="#">Основна сюжетна лінія </a> </p>
+            </div>
+
+            <div class=" btn-dark">
+            <p> <a href="#">Детальніше про розробників гри </a> </p>
+            </div>
+
+            <div class=" btn-dark">
+            <p> <a href="#">Історія створення серії ігр GTA</a> </p>
+            </div>
+
+            <div class=" btn-dark">
+            <p> <a href="#">Які ще ігри випускє компанія</a> </p>
+            </div>
+
+            <div class=" btn-dark">
+                <p> <a href="#">Детальніше про GTA online </a> </p>
+            </div>
+
+            <div class=" btn-dark">
+                <p> <a href="#">Безкоштовна роздача GTA 5 в Epic Games Store </a> </p>
+            </div>
+
+            <div class=" btn-dark">
+                <p> <a href="#">Cекрети GTA 5 які ще досі нікому не вдалося розгадати</a> </p>
+            </div>
+
+            <div class=" btn-dark">
+                <p> <a href="#">ТОП модифікацій дл GTA 5 </a> </p>
+            </div>
+
+            <div class=" btn-dark">
+                <p> <a href="#">Детальніше про GTA RP</a> </p>
+            </div>
+
+            <div class=" btn-dark">
+                <p> <a href="#">Швидкий старт GTA 5 Online</a> </p>
+            </div>
+
+
+        </div>
+
+
+        </body>
+</html>

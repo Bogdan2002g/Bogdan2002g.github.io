@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+                 <html lang="en">
+                      <head>
+                              <title>My Site</title>
+                                 <meta charset="utf-8">
+                                    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+                                        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+                                           <meta name="description" content="">
+                                              <meta name="author" content="">
+                                                     <link rel="stylesheet" href="CSS/laba2.css">
+
+
+
+                          <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+                                integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk" crossorigin="anonymous">
+                          <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+                                  integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+                      </head>
+                      <div></div>
+       <body>
+              <header id="header" class="header">
+
+    <div class="row">
+        <div class="col-md-12 cool-sd-6 col-lg-12" >
+
+                  <div class="top-bar">
+                      <p class="Marcy__"></p>
+
+
+                  </div>
+                      <div>
+                      <p class="story">story</p>
+                      </div>
+
+
+                  <div class="wrapper">
+                      <input type="checkbox" id="check-menu">
+                      <label class="label-menu" for="check-menu">MENU</label>
+                      <div class="burger-line first"></div>
+                      <div class="burger-line second"></div>
+                      <div class="burger-line third"></div>
+                      <div class="burger-line fourth"></div>
+                      <nav class="main-menu">
+                          <a class="link_menu" href="index.php">Home Page</a>
+                          <a class="link_menu"  href="Articles.php">Articles</a>
+                          <a class="link_menu" href="Login.php">Log in</a>
+                          <a class="link_menu"  href="AboutMe.php">AboutMe</a>
+                      </nav>
+                  </div>
+
+
+
+
+        </div>
+    </div>
+
+              </header>
+
+        <main class="main">
+            <div>
+
+
+
+
+
+
+
+            <img class="GTA" src= "CSS/img/Grand_Theft_Auto_V.png" alt= "фото"  >
+
+            <div>
+
+                <h1></h1>
+
+                <p class="text">
+
+
+
+                    <b>Grand Theft Auto V</b>- це пригодницька відеогра 2013 року,
+                    розроблена Rockstar North та видана компанією Rockstar Games.
+                    Події відбуваються у вигаданому штаті Сан-Андреас, що заснований на південній Каліфорнії.
+                    Сюжетна історія слідує за трьома злочинцями, які перебувають під тиском урядового відомства та авторитетних кримінальних фігур.
+                    Дизайн відкритого світу дозволяє гравцям вільно переміщуватися по місцевості
+                    Сан-Андреаса та вигаданому місту Лос-Сантос, на базі Лос-Анджелеса.</p>
+
+                <p class="text">
+                    Гра відбувається з виглядом від третьої, або першої особи, а її світом подорожують пішки або на транспорті.
+                    Гравці керують трьома головними героями протягом однокористувацької гри та перемикаються між ними, як під час місій, так і поза ними.
+                    Історія зосереджена на послідовних крадіжках, а багато місій передбачають стрілянину та керування транспортом.
+                    Система "розшуку" регулює агресію правоохоронців на злочини які вчинив гравець.
+                    Grand Theft Auto Online - онлайн мультиплеєр,
+                    дозволяє до 30 гравцям брати участь у різноманітних кооперативних та конкурентних режимах гри.
+                </p>
+
+                <p><b>Фото з гри:</b></p>
+
+                <img class="GTA1" src= "CSS/img/photo1.jpg" alt= "фото"  >
+                <img class="GTA2" src= "CSS/img/GTA.jpg" alt= "фото"  >
+                <img class="GTA3" src= "CSS/img/GTA3.jpg" alt= "фото"  >
+                <img class="GTA2" src= "CSS/img/GTA4.jpg" alt= "фото"  >
+                <img class="GTA3" src= "CSS/img/GTA5.jpg" alt= "фото"  >
+                <img class="GTA2" src= "CSS/img/GTA6.jpg" alt= "фото"  >
+
+                <p><b>Нагороди і рекорди</b></p>
+                <ul>
+                    <li>В жовтні 2013 року гра була відзначена ігровою премією Золотий джойстик-2013 (англ. «Golden Joystick Awards») в категорії «Гра року».</li>
+                    <li>Також Grand Theft Auto V потрапила в Книгу рекордів Гіннеса одразу в декількох номінаціях.</li>
+                    <li>Гра, яка за короткий термін (за 3 дні) принесла прибуток у розмірі <b><u>1 мільярда доларів.</u></b></li>
+                    <li>Рекорд продажів відеогри в жанрі пригодницького бойовика за перші 24 години.</li>
+                    <li>Відеогра, що стала хітом продажів за перші 24 години.</li>
+                    <li>Трейлери з найбільшою кількістю переглядів серед усіх пригодницьких ігор.</li>
+                    <li>Розважальний продукт, який за короткий термін приніс прибуток у розмірі 1 мільярда доларів.</li>
+                    <li>Найкасовіша відеогра (у перші 24 години продажів).</li>
+                    <li>Розважальний продукт, що приніс найбільшу виручку за перші 24 години продажів.</li>
+
+
+
+
+                </ul>
+
+                <p><b>Відео з гри:</b></p>
+                <br>
+                <br>
+                <br>
+
+
+                <iframe width="95%" height="480" src=https://www.youtube.com/embed/BVLHo7Vs4eU?start=77 frameborder=""
+                        allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+            </div>
+</div>
+
+
+
+
+
+
+
+     </main>
+              <div class="container-fluid">
+                  <div class="row">
+                      <header class="col-md-12 col-lg-12">
+          <footer class="footer">
+
+
+              <div class="row">
+                  <div class="col-md-12 cool-sd-12" >
+
+
+              <p class="link">Офіційний сайт рокстар: <a class="link" href="https://www.rockstargames.com/ru/" >https://www.rockstargames.com/ru/</a></p>
+
+
+
+
+              <div class="container text-center">
+
+
+                <small class="copyright"><?= 'Designed by Me!' ?></small>
+       </div>
+              <a href="https://www.instagram.com/rockstargames/?hl=ru">
+
+                  <img  class="photo" src= "CSS/img/photop.png" alt= "фото" width="40px" align="right" >
+              </a>
+                  </div>
+              </div>
+           </footer>
+
+              <div class="form">
+
+                  <section class="sub_block new_dex">
+
+                      <div class=  "cool-sd-12" >
+                      <form id="subscription_form" class="form_sub" method="post" >
+
+                          <p class="link" id="link">Отримуйте щоденні новини </p>
+                          <div class="inputs">
+                              <label>
+                                  <input type="text" name="name" required placeholder="Name" class="forms" >
+                              </label>
+
+
+
+                              <label>
+                                  <input type="email" name="email" required placeholder="email" class="forms">
+                              </label>
+                          </div>
+                          <button class="submit1" type="submit">Підписатися</button>
+                      </form>
+                          <div>
+
+
+                  </section>
+              </div>
+
+
+              <script
+                      src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+              <script src="js/MAIN.js"></script>
+
+
+
+
+
+
+
+
+
+</body>
+</html>
+ 
+
+
